@@ -1,0 +1,9 @@
+Ans 1: Gitignore file allows for us to conveniently add file extensions for which we do not want in our source-control. It should include Java extension files which are present is local
+enviroment but don't necessarily contribute to source control. 
+
+Ans 2:Fast forward can be done when the current branch is the ancestor of the branch that you want to merge.
+
+Ans 3: We should have branches because in future if we want to rollback our project to a said point of time with old features and code. Also branching also allows for a group of people code concurrently 
+on the same project without having the issue of messing up the master code or production code.
+
+Ans 4: One or Many
