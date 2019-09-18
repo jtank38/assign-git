@@ -6,4 +6,4 @@ Ans 2:Fast forward can be done when the current branch is the ancestor of the br
 Ans 3: We should have branches because in future if we want to rollback our project to a said point of time with old features and code. Also branching also allows for a group of people code concurrently 
 on the same project without having the issue of messing up the master code or production code.
 
-Ans 4: One  
+Ans 4: One or Many
